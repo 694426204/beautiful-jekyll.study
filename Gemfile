@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+gem "bigdecimal", "~> 3.1"
+
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -13,4 +15,3 @@ end
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
-
