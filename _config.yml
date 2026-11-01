@@ -21,6 +21,7 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  服务菜单: "/2026-11-02-emotion-consulting-service/"
   Resources:
     - Beautiful Jekyll: "https://694426204.github.io/Navigation-Website/"
     - Learn markdown: "https://www.markdowntutorial.com/"
